@@ -6,7 +6,7 @@ Ticks the hCaptcha checkbox and calls `hcaptcha.execute()` for invisible widgets
 
 ## Install
 
-[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/hcaptcha-auto-bypass/hcaptcha-auto-bypass.user.js)
+[Click here to install in ScriptCat](https://raw.githubusercontent.com/chirag127/hcaptcha-auto-bypass-userscript/main/hcaptcha-auto-bypass.user.js)
 
 ## How it works
 

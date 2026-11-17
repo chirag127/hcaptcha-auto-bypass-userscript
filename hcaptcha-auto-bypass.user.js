@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         hCaptcha Auto-Bypass
-// @namespace    https://github.com/chirag127/userscripts
+// @namespace    https://github.com/chirag127/hcaptcha-auto-bypass-userscript
 // @version      1.0.0
 // @description  Ticks the hCaptcha checkbox inside its frame with fake-trusted pointer events and calls hcaptcha.execute() for invisible widgets. ScriptCat switches, on by default, no solver API.
 // @author       chirag127
@@ -14,10 +14,10 @@
 // @grant        GM_log
 // @grant        CAT_registerMenuInput
 // @license      MIT
-// @homepageURL  https://github.com/chirag127/userscripts/tree/main/scripts/hcaptcha-auto-bypass
-// @supportURL   https://github.com/chirag127/userscripts/issues
-// @updateURL    https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/hcaptcha-auto-bypass/hcaptcha-auto-bypass.user.js
-// @downloadURL  https://raw.githubusercontent.com/chirag127/userscripts/main/scripts/hcaptcha-auto-bypass/hcaptcha-auto-bypass.user.js
+// @homepageURL  https://github.com/chirag127/hcaptcha-auto-bypass-userscript
+// @supportURL   https://github.com/chirag127/hcaptcha-auto-bypass-userscript/issues
+// @updateURL    https://raw.githubusercontent.com/chirag127/hcaptcha-auto-bypass-userscript/main/hcaptcha-auto-bypass.user.js
+// @downloadURL  https://raw.githubusercontent.com/chirag127/hcaptcha-auto-bypass-userscript/main/hcaptcha-auto-bypass.user.js
 // ==/UserScript==
 
 (() => {
